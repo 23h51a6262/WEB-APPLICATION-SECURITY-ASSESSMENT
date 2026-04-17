@@ -62,7 +62,26 @@ Uploaded a malicious file to simulate remote code execution.
 
 ## 📷 Screenshots
 
-All proof-of-concept screenshots are available in the `/screenshots` folder.
+## 📷 Proof of Concept
+
+### 🔴 SQL Injection
+
+![SQL Injection 1](screenshots/SQL-1.png)
+![SQL Injection 2](screenshots/SQL-2.png)
+
+### 🟠 Cross-Site Scripting (XSS)
+
+![XSS](screenshots/xss.png)
+
+
+### 🔴 Command Injection
+
+![Command Injection](screenshots/command_injection.png)
+
+
+### 🔴 Unrestricted File Upload
+
+![File Upload](screenshots/file_upload.png)
 
 
 
