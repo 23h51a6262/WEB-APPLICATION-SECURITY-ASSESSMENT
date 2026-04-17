@@ -4,7 +4,6 @@
 
 In this project, I performed a hands-on security assessment of a web application in a controlled environment. The goal was to understand how real-world vulnerabilities work, how attackers exploit them, and how they can be fixed.
 
----
 
 ## 🎯 What I Focused On
 
