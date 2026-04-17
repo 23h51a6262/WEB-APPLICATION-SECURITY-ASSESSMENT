@@ -12,7 +12,6 @@ In this project, I performed a hands-on security assessment of a web application
 * Documenting each step clearly
 * Suggesting practical fixes
 
----
 
 ## 🛠️ Tools I Used
 
@@ -20,7 +19,7 @@ In this project, I performed a hands-on security assessment of a web application
 * Kali Linux as the testing environment
 * Firefox for interacting with the application
 
----
+
 
 ## 🧪 How I Approached It
 
@@ -28,7 +27,7 @@ I started by exploring the application and identifying input fields that could b
 Then I used Burp Suite to intercept requests and test different payloads.
 Once a vulnerability was confirmed, I captured screenshots and documented the proof of concept along with its impact.
 
----
+
 
 ## 🚨 Key Vulnerabilities I Worked On
 
@@ -48,7 +47,7 @@ Executed system-level commands through input fields to demonstrate server compro
 
 Uploaded a malicious file to simulate remote code execution.
 
----
+
 
 ## 📊 Risk Summary
 
@@ -59,19 +58,19 @@ Uploaded a malicious file to simulate remote code execution.
 | Command Injection | Critical |
 | File Upload       | Critical |
 
----
+
 
 ## 📷 Screenshots
 
 All proof-of-concept screenshots are available in the `/screenshots` folder.
 
----
+
 
 ## 📄 Report
 
 A detailed report is included in this repository explaining each vulnerability, payload, impact, and fix.
 
----
+
 
 ## 💡 What I Learned
 
@@ -80,7 +79,7 @@ A detailed report is included in this repository explaining each vulnerability, 
 * How small mistakes can lead to critical vulnerabilities
 * How to document security findings professionally
 
----
+
 
 ## ✅ Recommendations
 
@@ -89,10 +88,9 @@ A detailed report is included in this repository explaining each vulnerability, 
 * Use secure development practices
 * Regularly test applications for vulnerabilities
 
----
+
 
 ## ⚠️ Disclaimer
 
 This project was done purely for learning purposes in a controlled environment.
 
----
